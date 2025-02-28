@@ -1,4 +1,3 @@
-# Fake-Vs-Real-News
 # Fake News Detection using Logistic Regression
 
 ## Overview
@@ -60,6 +59,5 @@ else:
 - The model is based only on textual features, and **does not** consider metadata like source credibility.
 - A deep learning model (e.g., LSTM, Transformers) can improve accuracy further.
 
-## License
-This project is open-source and available under the **MIT License**.
 
+## Accuracy score of the training data :  98.63%
